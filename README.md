@@ -68,7 +68,11 @@ Descripción del proyecto.
 
 ---
 ## Intereses
-* [Lista de tus intereses]
+Mis intereses no se limitan solo a la programación. Me apasionan los siguientes temas:
+* **Desarrollo Web y Móvil:** Siempre buscando nuevas tecnologías para mejorar la experiencia de usuario y la eficiencia en el desarrollo.
+* **Machine Learning & AI:** Me encanta explorar los avances en inteligencia artificial, y actualmente estoy aprendiendo sobre modelos predictivos y redes neuronales.
+**Intereses Personales:**
+* **Idiomas:** Estoy interesada en aprender y mejorar mis habilidades lingüísticas. Actualmente, estoy aprendiendo Lengua de Señas Ecuatorianas y perfeccionando Inglés, me gusta entender las diferencias culturales a través de los idiomas.
 ---
 
 ## 📧 Contacto
