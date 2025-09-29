@@ -23,7 +23,7 @@ Descripción breve del proyecto. Explica qué hace, su propósito y cualquier de
 - Tecnología 2
 - Tecnología 3
 
-**Estado del Proyecto:** ¡En desarrollo! | Finalizado | En mantenimiento
+**Estado del Proyecto:** Finalizado
 
 ![Captura del Proyecto 1](ruta/a/imagen1.png)
 
@@ -37,7 +37,7 @@ Breve descripción del proyecto.
 - Tecnología B
 - Tecnología C
 
-**Estado del Proyecto:** ¡En desarrollo! | Finalizado | En mantenimiento
+**Estado del Proyecto:** Finalizado
 
 ![Captura del Proyecto 2](ruta/a/imagen2.png)
 
@@ -51,7 +51,7 @@ Descripción del proyecto.
 - Tecnología Y
 - Tecnología Z
 
-**Estado del Proyecto:** ¡En desarrollo! | Finalizado | En mantenimiento
+**Estado del Proyecto:** Finalizado
 
 ![Captura del Proyecto 3](ruta/a/imagen3.png)
 
