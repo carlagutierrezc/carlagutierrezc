@@ -81,12 +81,6 @@ Si tienes alguna pregunta o deseas colaborar en algún proyecto, no dudes en con
 
 ---
 
-## 📄 Licencia
-
-Este repositorio está bajo la licencia [Licencia MIT](LICENCIA) (o la licencia que elijas). Consulta el archivo de licencia para más detalles.
-
----
-
 ¡Gracias por visitar mi repositorio! 🚀
 
 
