@@ -47,6 +47,8 @@ Descripción del proyecto.
 ![Captura del Proyecto 3](ruta/a/imagen3.png)
 
 ---
+## 📊 Mis estadísticas en GitHub
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=carlagutierrezc&show_icons=true&theme=radical)
 
 ## 🛠 Tecnologías que utilizo
 
