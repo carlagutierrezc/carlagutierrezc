@@ -5,7 +5,7 @@
 ---
 ## Contenido
 * [Información personal](#información-personal)
-* [Proyectos](#proyectos)
+* [🔧 Proyectos](#proyectos)
 * [Intereses](#intereses)
 
 ## Información personal
@@ -66,6 +66,9 @@ Descripción del proyecto.
 - **Herramientas:** Git.
 - **Lenguajes:** Python, Java.
 
+---
+## Intereses
+* [Lista de tus intereses]
 ---
 
 ## 📧 Contacto
