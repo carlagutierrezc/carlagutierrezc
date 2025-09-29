@@ -5,7 +5,7 @@
 ---
 ## Contenido
 * [Información personal](#información-personal)
-* [🔧 Proyectos](#proyectos)
+* [Proyectos](#proyectos)
 * [Intereses](#intereses)
 
 ## Información personal
@@ -13,7 +13,7 @@
 * Ocupación: Estudiante
 * Lugar de residencia: Ecuador
 
-## 🔧 Proyectos
+## Proyectos
 
 ### 1. [**Nombre del Proyecto 1**](enlace-al-proyecto-1)
 Descripción breve del proyecto. Explica qué hace, su propósito y cualquier detalle relevante que te gustaría resaltar.
