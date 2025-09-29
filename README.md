@@ -3,6 +3,15 @@
 ¡Bienvenido a mi repositorio personal! Aquí encontrarás una colección de mis proyectos, trabajos y desarrollos realizados a lo largo de mi carrera. A continuación, te presento algunos de los proyectos más destacados.
 
 ---
+## Contenido
+* [Información personal](#información-personal)
+* [Proyectos](#proyectos)
+* [Intereses](#intereses)
+
+## Información personal
+* Nombre: Carla Gutierrez
+* Ocupación: Estudiante
+* Lugar de residencia: Ecuador
 
 ## 🔧 Proyectos
 
@@ -52,10 +61,10 @@ Descripción del proyecto.
 
 ## 🛠 Tecnologías que utilizo
 
-- **Frontend:** HTML, CSS, JavaScript, React, Vue.js
-- **Backend:** Node.js, Express, Django, Flask
-- **Bases de datos:** MySQL, PostgreSQL, MongoDB
-- **Herramientas:** Git, Docker, Jenkins, Webpack
+- **Frontend:** HTML, CSS, JavaScript.
+- **Bases de datos:** MySQL
+- **Herramientas:** Git.
+- **Lenguajes:** Python, Java.
 
 ---
 
@@ -63,9 +72,9 @@ Descripción del proyecto.
 
 Si tienes alguna pregunta o deseas colaborar en algún proyecto, no dudes en contactarme:
 
-- Correo Institucional: [tuemail@institucion.com](mailto:tuemail@institucion.com)
-- LinkedIn: [tu-linkedin](https://linkedin.com/in/tu-perfil)
-- GitHub: [tu-github](https://github.com/tuusuario)
+- Correo Institucional: [cagutier@espol.edu.ec](mailto:cagutier@espol.edu.ec)
+- LinkedIn: [Carla Gutierrez](https://www.linkedin.com/in/carla-gutierrez-a70b15252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- GitHub: [carlagutierrezc](https://github.com/carlagutierrezc)
 
 ---
 
