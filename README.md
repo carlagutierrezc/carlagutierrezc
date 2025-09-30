@@ -11,10 +11,9 @@ Durante mi formación y proyectos, he trabajado con las siguientes tecnologías 
 
 - **Lenguajes:** Python, Java, R. 
 - **Frontend:** HTML, CSS, JavaScript.
-- **Bases de datos:** MySQL  
+- **Bases de datos:** MySQL.
 - **Herramientas:** Git, GitHub.
 - **Librerías y frameworks:**
--- Pandas, NumPy, Matplotlib → análisis y visualización de datos
 
 📊 También he realizado proyectos relacionados con análisis de datos, visualización y predicción.  
 
