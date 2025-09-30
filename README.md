@@ -45,9 +45,11 @@ El sistema permite manejar información garantizando integridad y eficiencia en 
 
 ## 📊 Mis estadísticas en GitHub  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlagutierrezc&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlagutierrezc&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlagutierrezc&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=carlagutierrezc&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlagutierrezc&layout=compact&theme=tokyonight)  
 
 ---
 
