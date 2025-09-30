@@ -1,90 +1,75 @@
-# Mi Repositorio Personal
+# 👩‍💻 ¡Hola! Soy Carla Gutierrez  
 
-¡Bienvenido a mi repositorio personal! Aquí encontrarás una colección de mis proyectos, trabajos y desarrollos realizados a lo largo de mi carrera. A continuación, te presento algunos de los proyectos más destacados.
-
----
-## Contenido
-* [Información personal](#información-personal)
-* [Proyectos](#proyectos)
-* [Intereses](#intereses)
-
-## Información personal
-* Nombre: Carla Gutierrez
-* Ocupación: Estudiante
-* Lugar de residencia: Ecuador
-
-## Proyectos
-
-### 1. [**Nombre del Proyecto 1**](enlace-al-proyecto-1)
-Descripción breve del proyecto. Explica qué hace, su propósito y cualquier detalle relevante que te gustaría resaltar.
-
-**Tecnologías utilizadas:**
-- Tecnología 1
-- Tecnología 2
-- Tecnología 3
-
-**Estado del Proyecto:** Finalizado
-
-![Captura del Proyecto 1](ruta/a/imagen1.png)
+✨ Apasionada por la tecnología, el aprendizaje continuo y la innovación.  
+🎓 Estudiante de Ingeniería en Computación | Ayudante de docencia | Explorando el mundo del **Desarrollo Web, Inteligencia Artificial y Ciencia de Datos**.  
 
 ---
 
-### 2. [**Nombre del Proyecto 2**](enlace-al-proyecto-2)
-Breve descripción del proyecto.
+## 🚀 Tecnologías y herramientas que utilizo  
 
-**Tecnologías utilizadas:**
-- Tecnología A
-- Tecnología B
-- Tecnología C
+Durante mi formación y proyectos, he trabajado con las siguientes tecnologías y herramientas:  
 
-**Estado del Proyecto:** Finalizado
-
-![Captura del Proyecto 2](ruta/a/imagen2.png)
-
----
-
-### 3. [**Nombre del Proyecto 3**](enlace-al-proyecto-3)
-Descripción del proyecto.
-
-**Tecnologías utilizadas:**
-- Tecnología X
-- Tecnología Y
-- Tecnología Z
-
-**Estado del Proyecto:** Finalizado
-
-![Captura del Proyecto 3](ruta/a/imagen3.png)
-
----
-## 📊 Mis estadísticas en GitHub
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=carlagutierrezc&show_icons=true&theme=radical)
-
-## 🛠 Tecnologías que utilizo
-
+- **Lenguajes:** Python, Java, R. 
 - **Frontend:** HTML, CSS, JavaScript.
-- **Bases de datos:** MySQL
-- **Herramientas:** Git.
-- **Lenguajes:** Python, Java.
+- **Bases de datos:** MySQL  
+- **Herramientas:** Git, GitHub.
+- **Librerías y frameworks:**
+-- Pandas, NumPy, Matplotlib → análisis y visualización de datos
 
----
-## Intereses
-Mis intereses no se limitan solo a la programación. Me apasionan los siguientes temas:
-* **Desarrollo Web y Móvil:** Siempre buscando nuevas tecnologías para mejorar la experiencia de usuario y la eficiencia en el desarrollo.
-* **Machine Learning & AI:** Me encanta explorar los avances en inteligencia artificial, y actualmente estoy aprendiendo sobre modelos predictivos y redes neuronales.
-**Intereses Personales:**
-* **Idiomas:** Estoy interesada en aprender y mejorar mis habilidades lingüísticas. Actualmente, estoy aprendiendo Lengua de Señas Ecuatorianas y perfeccionando Inglés, me gusta entender las diferencias culturales a través de los idiomas.
----
-
-## 📧 Contacto
-
-Si tienes alguna pregunta o deseas colaborar en algún proyecto, no dudes en contactarme:
-
-- Correo Institucional: [cagutier@espol.edu.ec](mailto:cagutier@espol.edu.ec)
-- LinkedIn: [Carla Gutierrez](https://www.linkedin.com/in/carla-gutierrez-a70b15252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- GitHub: [carlagutierrezc](https://github.com/carlagutierrezc)
+📊 También he realizado proyectos relacionados con análisis de datos, visualización y predicción.  
 
 ---
 
-¡Gracias por visitar mi repositorio! 🚀
+## 🌟 Proyectos destacados  
 
+### 🎶 [Gira-de-Concierto](https://github.com/leno-mpm/Gira-de-Concierto)  
+Este proyecto implementa una solución al **Problema del Agente Viajero**, un desafío clásico de optimización combinatoria aplicado al contexto de una gira musical.  
+El objetivo es calcular la **ruta más corta** que permita a una banda visitar varias ciudades y regresar al punto de inicio, minimizando la distancia total recorrida.  
 
+**Tecnologías utilizadas:**  
+- Python  
+- Algoritmos de optimización  
+- Flask (para la interfaz web)  
+
+---
+
+### 🚗 [Automotriz-Cordova](https://github.com/leno-mpm/Automotriz-Cordova)  
+Sistema de **gestión de inventario** para una empresa automotriz, desarrollado con un enfoque en **bases de datos relacionales** y operaciones completas de **CRUD** (Crear, Leer, Actualizar, Eliminar).  
+El sistema permite manejar información garantizando integridad y eficiencia en la gestión del inventario.  
+
+**Tecnologías utilizadas:**  
+- SQL / MySQL  
+- Procedimientos y Triggers  
+- Modelo Entidad-Relación  
+
+---
+
+## 📊 Mis estadísticas en GitHub  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlagutierrezc&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlagutierrezc&layout=compact&theme=radical)  
+
+---
+
+## 🎯 Intereses  
+
+Mis intereses se enfocan en:  
+
+- 🌐 **Desarrollo Web y Móvil** – Siempre buscando nuevas tecnologías para mejorar la experiencia de usuario.  
+- 🤖 **Machine Learning & AI** – Aprendiendo sobre modelos predictivos para la automatización de procesos.  
+- 🗣️ **Idiomas** – Estudio Lengua de Señas Ecuatoriana y perfecciono mi inglés. Me interesa cómo los idiomas nos conectan con diferentes culturas.  
+
+---
+
+## 📬 Contáctame  
+
+Si quieres colaborar en un proyecto o conversar, puedes encontrarme en:  
+
+- 📧 **Correo Institucional:** cagutier@espol.edu.ec  
+- 💼 [LinkedIn](https://www.linkedin.com/in/carlagutierrez)  
+- 🐙 [GitHub](https://github.com/carlagutierrezc)  
+
+---
+
+⭐ *“El aprendizaje continuo es la mejor inversión en uno mismo”*  
