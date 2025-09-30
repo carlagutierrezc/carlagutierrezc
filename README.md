@@ -67,7 +67,7 @@ Mis intereses se enfocan en:
 
 Si quieres colaborar en un proyecto o conversar, puedes encontrarme en:  
 
-- 📧 **Correo Institucional:** cagutier@espol.edu.ec  
+- 📧 [Correo institucional](mailto:cagutier@espol.edu.ec) 
 - 💼 [LinkedIn](https://www.linkedin.com/in/carlagutierrez)  
 - 🐙 [GitHub](https://github.com/carlagutierrezc)  
 
