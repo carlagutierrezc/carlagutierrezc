@@ -58,7 +58,7 @@ El sistema permite manejar información garantizando integridad y eficiencia en 
 Mis intereses se enfocan en:  
 
 - 🌐 **Desarrollo Web y Móvil** – Siempre buscando nuevas tecnologías para mejorar la experiencia de usuario.  
-- 🤖 **Machine Learning & AI** – Aprendiendo sobre modelos predictivos para la automatización de procesos.  
+- 🤖 **Machine Learning & AI** – Aprendiendo sobre modelos predictivos.  
 - 🗣️ **Idiomas** – Estudio Lengua de Señas Ecuatoriana y perfecciono mi inglés. Me interesa cómo los idiomas nos conectan con diferentes culturas.  
 
 ---
