@@ -43,6 +43,20 @@ El sistema permite manejar información garantizando integridad y eficiencia en 
 
 ---
 
+### 🐦 [Detectabilidad de aves costeras ecuatorianas](https://github.com/carlagutierrezc/Detectabilidad-de-aves-costeras-ecuatorianas)  
+Este proyecto analiza la relación entre características morfológicas y el comportamiento vocal de aves costeras ecuatorianas, empleando técnicas estadísticas en **R** como regresión lineal, correlación y pruebas de hipótesis.  
+
+**Objetivos principales:**  
+- Evaluar si el tamaño corporal promedio influye en el esfuerzo vocal mediante modelos de regresión lineal.  
+- Analizar la correlación entre la duración del canto y el número de avistamientos, aplicando coeficientes de Pearson o Spearman.  
+- Comparar el número de vocalizaciones entre grupos de aves definidos por su tamaño corporal, utilizando pruebas de hipótesis (t de Student o U de Mann-Whitney).  
+
+**Tecnologías utilizadas:**  
+- Lenguaje R  
+- Métodos de regresión, correlación y pruebas de hipótesis.  
+
+---
+
 ## 📊 Mis estadísticas en GitHub  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlagutierrezc&show_icons=true&theme=tokyonight&custom_title=Carla%20Gutierrez%20%E2%80%94%20GitHub%20Stats&cache_seconds=7200&v=1)
